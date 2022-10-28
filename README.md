@@ -121,7 +121,7 @@ def slow_func():
 
 ## Pages
 
-Add folder 'pages'.
+Add folder `pages`.
 
 Insert there more `.py` files.
 
