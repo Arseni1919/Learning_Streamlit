@@ -119,6 +119,14 @@ def slow_func():
         time.sleep(0.1)
 ```
 
+## Pages
+
+Add folder 'pages'.
+
+Insert there more `.py` files.
+
+Done.
+
 
 
 ## Credits
